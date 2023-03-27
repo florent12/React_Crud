@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "firstName": "Iles",
+      "lastName": "liuder",
+      "checkbox": "false",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Greg",
+      "lastName": "BDD",
+      "checkbox": false
+    },
+    {
+      "firstName": "LUCAS ",
+      "lastName": "Bt4",
+      "checkbox": "false",
+      "id": "6FVZAsX"
+    },
+    {
+      "firstName": "Monsieur",
+      "lastName": "Prof",
+      "checkbox": false,
+      "id": "ZD2hmae"
+    },
+    {
+      "firstName": "Marc",
+      "lastName": "Ter",
+      "checkbox": true,
+      "id": "VOZ307P"
+    },
+    {
+      "firstName": "Ado",
+      "lastName": "Mec",
+      "checkbox": false,
+      "id": "4r8na6y"
+    },
+    {
+      "firstName": "Tomy ",
+      "lastName": "Higen",
+      "checkbox": "false",
+      "id": "6Z_HvQs"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Dev",
+      "checkbox": true,
+      "id": "BlmXB91"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
