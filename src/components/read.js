@@ -137,12 +137,7 @@ export default function Read() {
                   {data.checkbox ? "disponible" : "Pas disponible"}
                 </Table.Cell>
                 <Table.Cell>
-                    <Button onClick={() => setData(data)}>
-                    <Icon color='red'>
-                    <i aria-hidden="true" class="thumbs down icon"></i>
-                    </Icon>
-                    
-                    </Button>
+                   
                     <Button onClick={() => setData(data)}>
                     <Icon color='green'>
                     <i aria-hidden="true" class="thumbs up icon"></i>
